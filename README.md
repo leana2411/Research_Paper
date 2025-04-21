@@ -31,5 +31,3 @@ The research adopts a mixed-method approach, combining:
 ## Conclusion
 The proposed solution offers a comprehensive, technology-driven approach to disaster management, improving response time, coordination, and data accuracy. By adopting such a system, disaster management can become more proactive and efficient.
 
-## How to Cite
-If you use this research paper for academic purposes or reference it in your own work, please cite it as follows:
